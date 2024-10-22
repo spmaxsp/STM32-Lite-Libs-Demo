@@ -1,0 +1,9 @@
+{
+    "cortex-debug.variableUseNaturalFormat": true,
+    "files.associations": {
+        "compare": "c",
+        "limits": "c",
+        "new": "c",
+        "i2c.h": "c"
+    }
+}
