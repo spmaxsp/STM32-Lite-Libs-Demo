@@ -1,0 +1,3 @@
+[submodule "Lib/sl2"]
+	path = Lib/sl2
+	url = https://github.com/spmaxsp/STM32-Lite-Libs.git
